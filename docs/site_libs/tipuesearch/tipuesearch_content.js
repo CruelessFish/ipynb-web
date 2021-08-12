@@ -1,0 +1,6 @@
+var tipuesearch = {"pages": [
+{"mainTitle": "Divvy data exploration project", "title": "Divvy data exploration project", "text": "Divvy data exploration project ", "tags": "", "mainUrl": "http://stephenslab.github.io/ipynb-website/index.html", "url": "http://stephenslab.github.io/ipynb-website/index.html#Divvy-data-exploration-project"},
+{"mainTitle": "Divvy data exploration project", "title": "Project overview", "text": "Project overview ", "tags": "", "mainUrl": "http://stephenslab.github.io/ipynb-website/index.html", "url": "http://stephenslab.github.io/ipynb-website/index.html#Project-overview"},
+{"mainTitle": "Divvy data exploration project", "title": "Credits", "text": "Credits ", "tags": "", "mainUrl": "http://stephenslab.github.io/ipynb-website/index.html", "url": "http://stephenslab.github.io/ipynb-website/index.html#Credits"},
+{"mainTitle": "This page is password protected", "title": "This page is password protected", "text": "This page is password protected ", "tags": "", "mainUrl": "http://stephenslab.github.io/ipynb-website/protected/protected_page.html", "url": "http://stephenslab.github.io/ipynb-website/protected/protected_page.html#This-page-is-password-protected"}
+]};
